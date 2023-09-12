@@ -1,7 +1,6 @@
 {
   "name": "app-assets",
   "author": "ABing",
-  "description": "应用相关资产、配置文件等公开访问",
   "scripts": {
     "cmt": "node ./scripts/cmt.js"
   }
