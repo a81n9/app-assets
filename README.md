@@ -1,1 +1,1 @@
-![app-assets](https://github.com/AAABingBing/app-assets/assets/53040248/72cbe16b-5b1f-4fbe-8ccb-0be757a9b806)
+![app-assets](https://github.com/AAABingBing/app-assets/assets/53040248/50ebb5f2-215e-4973-a967-ad04ee9797fa)
